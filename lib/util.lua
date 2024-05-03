@@ -1,5 +1,5 @@
 
-BASE_URL = "https://storage.googleapis.com/flutter_infra_release/releases/releases_%s.json"
+BASE_URL = "https://storage.flutter-io.cn/flutter_infra_release/releases/releases_%s.json"
 
 
 function getOsTypeAndArch()
